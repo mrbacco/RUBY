@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# prime.rb
+# 2026-10-02
 
 class PrimeNumbers                    # define a class called PrimeNumbers
   def is_prime?()

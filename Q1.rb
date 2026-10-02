@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q1.rb
+# 2026-10-02
 
 #Q1
 

@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q3.rb
+# 2026-10-02
 #A3
 
 class Person                        # generation of the class called Person          

@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q2.rb
+# 2026-10-02
 
 #A2
 puts "please, enter a price for item1"

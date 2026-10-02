@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q6.rb
+# 2026-10-02
 
 
 # define Singer class and it's own method line1,2,3 and 4 with their outputs

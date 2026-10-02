@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q5.rb
+# 2026-10-02
 
 
 

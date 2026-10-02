@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q7.rb
+# 2026-10-02
 
 
 # definition of the class called Singer

@@ -1,3 +1,6 @@
+# mrbacco04@gmail.com
+# Q4.rb
+# 2026-10-02
 #A4
 
 class Person                                        # creation of the class Called Person,  
